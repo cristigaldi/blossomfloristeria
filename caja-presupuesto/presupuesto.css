@@ -1,0 +1,12 @@
+.h1-mantenimiento{
+    text-align: center;
+    font-size: 3rem;
+    color: var(--color-title);
+    
+}
+
+
+.margin-top{
+    margin:  150px;
+    background-color: var(--color-background);
+}

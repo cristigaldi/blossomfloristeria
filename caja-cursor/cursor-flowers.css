@@ -1,0 +1,17 @@
+/* Estilo para los puntitos */
+.dot {
+  position: absolute;
+  width: 8px; /* Tamaño del punto */
+  height: 8px;
+  border-radius: 50%; /* Forma redonda */
+  pointer-events: none; /* No interfieren con clics */
+  animation: move 1s ease-out forwards; /* Animación suave */
+}
+
+/* Animación para desvanecer los puntos */
+@keyframes move {
+  to {
+    opacity: 0; /* Gradualmente invisible */
+    transform: scale(0.5); /* Se encogen */
+  }
+}

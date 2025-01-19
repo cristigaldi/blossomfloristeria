@@ -1,0 +1,43 @@
+/*============== PRODUCTOS ===============*/
+
+.background{
+    background-color: #333333;
+}
+
+.grid-prod{
+    
+    display: grid;
+    grid-template-columns: repeat(3, 26vw);
+    gap: 20px;
+}
+
+.fig-prod{
+    width: 26vw;
+    height: 21vw;
+}
+
+.prod{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.prod h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    color: var(--color-terciario);
+    font-size: var(--text-size-small);
+    font-weight: 100;
+}
+
+.color-title{
+    color: var(--color-terciario);
+}
+
+.background-prod{
+    background-color: #d7c5c5eb;
+    border-radius: 20px;
+    padding: 20px;
+
+}

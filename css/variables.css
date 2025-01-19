@@ -1,0 +1,18 @@
+:root{
+    /*colores*/
+    --color-principal: #eedaca;
+    --color-secundario:#FFF5ED;
+    --color-terciario:#fbf5f1;
+    --color-white:#fffdef;
+    --color-negro:#000;
+    --color-white2:#fff;
+
+    /*texto*/
+    --text-uppercase: uppercase;
+    --text-size-small: 1.2rem;
+    --text-size-medium: 2rem;
+    --text-size-2: 2.3rem;
+    --text-size-1: 1.5rem;
+    --letter-spac:2px;
+
+}

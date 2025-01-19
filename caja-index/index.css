@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin:0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+/*======== MAIN =========*/
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.h2-title{
+    text-transform: var(--text-uppercase);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.margin-top{
+    margin-top: 40px;
+}
+
+.margin-top-70{
+    margin-top: 70px;
+}
+
+.margin-top-150{
+    margin-top: 72px;
+}
+
+.margin-bottom{
+    margin-bottom: 30px;
+}
+
+.margin-bottom50{
+    margin-bottom: 50px;
+}
+.title-space-size{
+    letter-spacing: var(--letter-spac);
+    font-size: var(--text-size-medium);
+
+}
+
+
+
+
+@media (width < 500px) {
+    .links {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px 0;
+      padding: 40px 0 30px;
+    }
+  }
+  
+  @media (width < 360px) {
+    footer {
+      grid-template-areas: "logo" "links" "redes-sociales";
+      grid-template-columns: 1fr;
+    }
+  
+    .redes-sociales {
+      justify-content: flex-start;
+      padding-bottom: 20px;
+    }
+  }
+
+/*============== IMAGENES ================*/
+
+
+.figure-pres{ /* PRESENTACION */
+    display: flex;
+    justify-content: center;
+    width: 4vw;
+    height: 4vw;
+}
+
+.ofer-fig{ /*OFERTAS*/
+
+    display: flex;
+    height: 16vw;
+    width: 15vw;
+    justify-content: center;
+}
+
+.image{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}

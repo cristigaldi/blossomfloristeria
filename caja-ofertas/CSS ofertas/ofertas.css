@@ -1,0 +1,140 @@
+/*======== OFERTAS CSS DEL INDEX =========*/
+.video-cont {
+    position: relative;
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.video-ramo {
+    position: absolute;
+    overflow: hidden;
+    object-fit: cover;
+    display: flex;
+    width: 100%;
+    height: 25vw;
+    z-index: 1;
+
+}
+
+.margin-top-offer {
+    margin-top: 50px;
+}
+
+.title-ofer {
+    position: relative;
+    justify-content: center;
+    margin-top: 120px;
+    z-index: 2;
+    font-size: var(--text-size-1);
+    padding: 20px;
+    width: 100%;
+    color: var(--color-white2);
+
+}
+
+hr {
+    border: 1px solid var(--color-white2);
+    /* Líneas en blanco */
+    width: 50px;
+    margin: 10px auto;
+    /* Centrar la línea horizontal */
+}
+
+
+/*Caja que quiero que aparezca en delante de la imagen con el precio*/
+.box-ofer {
+    box-shadow: 0px 0px 30px rgb(122, 122, 122);
+    background-color: var(--color-white2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 10px;
+    bottom: -10px;
+    position: absolute;
+}
+
+/* Estilos para móviles */
+@media (max-width: 600px) {
+    .video-ramo {
+        height: 55vw;
+        /* Ajustar altura para móviles */
+    }
+
+    .title-ofer {
+        margin-top: 170px;
+        /* Reducir el margen */
+        font-size: calc(var(--text-size-1) * 0.8);
+        /* Reducir tamaño de fuente */
+    }
+
+    .grid-ofer-cont {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 80px;
+        /* Reducir el margen superior */
+    }
+
+    .ofer-fig {
+        width: 35vw;
+        height: 30vw;
+    }
+
+    .box-ofer {
+        box-shadow: none;
+        width: 30vw;
+        position: static;
+        margin: 0;
+    }
+
+
+}
+
+/* Estilos para tabletas */
+@media (min-width: 601px) and (max-width: 900px) {
+    
+    .video-ramo {
+        height: 35vw;
+        /* Ajustar altura para móviles */
+    }
+
+    .title-ofer {
+        margin-top: 120px;
+        /* Reducir el margen */
+        font-size: var(--text-size-1);
+        /* Mantener tamaño de fuente */
+    }
+
+    
+    .display-flex-tablet{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .ofer-fig {
+        width: 28vw;
+        height: 20vw;
+        padding: 5px;
+        
+    }
+    .ofertas {
+        display: flex;
+        justify-items: left;
+        margin: 0;
+        position: relative;
+    }
+    
+    .box-ofer {
+        margin-top: 0;
+        justify-content: left;
+        box-shadow: none;
+        padding: 5px;
+        z-index: 1;
+        position: static;
+    }
+}

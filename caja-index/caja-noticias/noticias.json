@@ -1,0 +1,30 @@
+[
+{   
+    "titulo": "Titulo noticias",
+    "fecha": "18/10/2024",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque earum pariatur asperiores, dicta nihil doloribus in dolores consequatur repudiandae ea corporis, consectetur unde eos vitae repellat soluta quidem, iusto exercitationem.",
+    "img":"https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid"
+},
+
+{   
+    "titulo": "Titulo noticias",
+    "fecha": "03/04/2024",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque earum pariatur asperiores, dicta nihil doloribus in dolores consequatur repudiandae ea corporis, consectetur unde eos vitae repellat soluta quidem, iusto exercitationem.",
+    "img":"https://img.freepik.com/vector-gratis/flores-blancas-flor_53876-93708.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid"
+},
+
+{   
+    "titulo": "Titulo noticias",
+    "fecha": "12/02/2024",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque earum pariatur asperiores, dicta nihil doloribus in dolores consequatur repudiandae ea corporis, consectetur unde eos vitae repellat soluta quidem, iusto exercitationem.",
+    "img":"https://img.freepik.com/vector-gratis/letras-creativas-hello-spring_23-2148448725.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid"
+},
+
+{   
+    "titulo": "Titulo noticias",
+    "fecha": "23/12/2023",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque earum pariatur asperiores, dicta nihil doloribus in dolores consequatur repudiandae ea corporis, consectetur unde eos vitae repellat soluta quidem, iusto exercitationem.",
+    "img":"https://img.freepik.com/vector-gratis/bonitos-adornos-flores-navidenas_23-2147581406.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid"
+}
+
+]

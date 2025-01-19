@@ -1,0 +1,84 @@
+[
+
+{
+    "titulo": "Sweet ramos",
+    "precio": "100",
+    "precio_rebaja": "80",
+    "img":"https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid"
+}, 
+
+{
+    "titulo": "Spring Ramos",
+    "precio": "150",
+    "precio_rebaja": "120",
+    "img":"https://img.freepik.com/foto-gratis/ramo-pie-libros_23-2147711715.jpg?t=st=1737325837~exp=1737329437~hmac=0dfcc297b5974f939a2ba7a061926c68a939886c8070578f4dcb315b0b505720&w=826"
+},       
+{
+    "titulo": "Winter white Ramos",
+    "precio": "90",
+    "precio_rebaja": "30",
+    "img":"https://img.freepik.com/foto-gratis/precioso-ramo-novia-atado-cintas-seda-encaje-llave-forma-corazon_146671-19780.jpg?t=st=1737325923~exp=1737329523~hmac=ed6395368ff8ffb369f595682b8cc2ebb2045098dd4b1e4c6bc29779bc9591d7&w=826"
+},
+{
+    "titulo": "Autumn ramo",
+    "precio": "80",
+    "precio_rebaja": "40",
+    "img":"beautiful-floral-arrangement-wooden-table_23-2148846534.jpg"
+}, 
+{
+    "titulo": "Autumn ramo",
+    "precio": "50",
+    "precio_rebaja": "20",
+    "img":"wedding-bouquet-winter-day_627829-12232.jpg"
+},    
+
+{
+    "titulo": "Autumn ramo",
+    "precio": "20",
+    "precio_rebaja": "10",
+    "img":"bouquet-orange-tulips-female-hands-interior-room-closeup_169016-28300.jpg"
+},    
+{
+    "titulo": "Autumn ramo",
+    "precio": "20",
+    "precio_rebaja": "10",
+    "img":"bouquet-orange-tulips-female-hands-interior-room-closeup_169016-28300.jpg"
+},    
+
+{
+    "titulo": "Autumn ramo",
+    "precio": "20",
+    "precio_rebaja": "10",
+    "img":"bouquet-orange-tulips-female-hands-interior-room-closeup_169016-28300.jpg"
+},    
+
+{
+    "titulo": "Autumn ramo",
+    "precio": "20",
+    "precio_rebaja": "10",
+    "img":"bouquet-orange-tulips-female-hands-interior-room-closeup_169016-28300.jpg"
+},    
+
+{
+    "titulo": "Autumn ramo",
+    "precio": "20",
+    "precio_rebaja": "10",
+    "img":"bouquet-orange-tulips-female-hands-interior-room-closeup_169016-28300.jpg"
+}    ,    
+
+{
+    "titulo": "Autumn ramo",
+    "precio": "20",
+    "precio_rebaja": "10",
+    "img":"bouquet-orange-tulips-female-hands-interior-room-closeup_169016-28300.jpg"
+}  ,    
+
+{
+    "titulo": "Autumn ramo",
+    "precio": "20",
+    "precio_rebaja": "10",
+    "img":"bouquet-orange-tulips-female-hands-interior-room-closeup_169016-28300.jpg"
+}  
+
+
+]
