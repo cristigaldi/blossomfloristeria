@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded" , function () {
 });
 
 function cargarNoticias() {
-    fetch('caja-noticias/noticias.json')
+    fetch('src/json/noticias.json')
     .then(response => response.json())
     .then(data => {
         const contenedorNoticias = document.getElementById('not-container');

@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded" , function () {
 });
 
 function cargarRebajas() {
-    fetch('../../caja-ofertas/ofertas.json')
+    fetch('../../src/json/ofertas.json')
     .then(response => response.json())
     .then(data => {
         const contenedorRebajas = document.getElementById('rebajas-container');
@@ -18,7 +18,7 @@ function cargarRebajas() {
             <p class="precio"><small>${rebajas.precio}</small></p>
             <p class="precio_rebaja">${rebajas.precio_rebaja}</p>
             </div>
-            <button class="btn-rebajas"><a href="../../caja-ofertas/html/cards-ofer.html">Ver oferta</a></button>
+            <button class="btn-rebajas"><a href="cards-ofer.html">Ver oferta</a></button>
             </div>
             `;
             contenedorRebajas.appendChild(rebajasDiv);
