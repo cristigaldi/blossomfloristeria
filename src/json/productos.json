@@ -1,0 +1,38 @@
+[
+    {
+        "categories": [
+          {
+            "id": 1,
+            "name": "All",
+            "items": [
+              { "id": 101, "name": "Flower 1", "image": "https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid", "category": "Ramos" },
+              { "id": 102, "name": "Flower 2", "image": "https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid", "category": "Arreglos" },
+              { "id": 103, "name": "Flower 3", "image": "https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid", "category": "Macetas" }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Ramos",
+            "items": [
+              { "id": 101, "name": "Flower 1", "image": "https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid", "category": "Ramos" }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Arreglos",
+            "items": [
+              { "id": 102, "name": "Flower 2", "image": "https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid", "category": "Arreglos" }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Macetas",
+            "items": [
+              { "id": 103, "name": "Flower 2", "image": "https://img.freepik.com/vector-gratis/fondo-primavera-acuarela_52683-81554.jpg?uid=R154391894&ga=GA1.1.1243310689.1706631679&semt=ais_hybrid", "category": "Macetas" }
+            ]
+          }
+        ]
+      }
+      
+
+]    

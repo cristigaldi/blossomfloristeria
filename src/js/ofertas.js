@@ -15,10 +15,14 @@ function cargarRebajas() {
              <img src="${rebajas.img} alt="${rebajas.titulo}" class="image img-rebajas">
             <h3 class="h3-rebajas">${rebajas.titulo}</h3>
             <div class="box-pre">
-            <p class="precio"><small>${rebajas.precio}</small></p>
-            <p class="precio_rebaja">${rebajas.precio_rebaja}</p>
-            </div>
+
+            <div class="pre">
+            <p class="precio "><small>${rebajas.precio}</small></p>
+            <p class="precio_rebaja ">${rebajas.precio_rebaja}</p>
+            </div> 
             <button class="btn-rebajas"><a href="cards-ofer.html">Ver oferta</a></button>
+
+            </div>
             </div>
             `;
             contenedorRebajas.appendChild(rebajasDiv);

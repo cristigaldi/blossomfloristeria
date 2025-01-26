@@ -1,0 +1,15 @@
+.products{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+}
+
+.products a{
+    text-decoration: 2px underline ;
+    text-underline-offset: 3px;
+    color: rgb(0, 0, 0);
+}
+

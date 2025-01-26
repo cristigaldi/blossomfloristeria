@@ -43,7 +43,7 @@ hr {
 }
 
 
-/*Caja que quiero que aparezca en delante de la imagen con el precio*/
+/*SIN USO -- Caja que quiero que aparezca en delante de la imagen con el precio*/
 .box-ofer {
     box-shadow: 0px 0px 30px rgb(122, 122, 122);
     background-color: var(--color-white2);
